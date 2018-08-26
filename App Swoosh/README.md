@@ -1,5 +1,3 @@
 #  App Swoosh
-A demo app which includes
-* Welcome Screen
-    * How to make border for button
+This branch demonstrates working with frames, and in this demo it tells us why we need auto layout.
 
