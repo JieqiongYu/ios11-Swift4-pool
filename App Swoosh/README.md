@@ -1,5 +1,3 @@
-#  App Swoosh
-A demo app which includes
-* Welcome Screen
-    * How to make border for button
+#  App Swoosh - 03
+Auto layout which supports multiple screen sizes
 
