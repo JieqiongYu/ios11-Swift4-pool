@@ -1,5 +1,3 @@
-#  App Swoosh
-A demo app which includes
-* Welcome Screen
-    * How to make border for button
+#  App Swoosh - 06
+Refactoring in Xcode 9, create Views/Controller/Model groups and one vc for each screen. 
 
