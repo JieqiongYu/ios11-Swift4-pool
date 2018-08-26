@@ -1,5 +1,3 @@
-#  App Swoosh
-A demo app which includes
-* Welcome Screen
-    * How to make border for button
+#  App Swoosh - 05
+Intro to segues and link a go back button with some func 
 
