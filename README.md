@@ -7,3 +7,4 @@
 * Protocols-Delegate Playground
 * Color Magic
 * Eluxion
+* Auto Layout
