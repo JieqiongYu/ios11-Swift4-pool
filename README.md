@@ -1,10 +1,5 @@
 # Repository for learning ios development
-* Hello World
-* I Am Rich
-* Hustle Mode
-* Basic Playground
-* Extensions Demo
-* Protocols-Delegate Playground
-* Color Magic
-* Eluxion
-* Auto Layout
+1. Cat Years
+* How to convert from Int to String (String to Int)
+* How to display image using ImageView
+* How to display text on display 
